@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transcontinental Railroad</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        section {
+            padding: 2em;
+            margin: 2em 0;
+            background-color: white;
+            border-radius: 8px;
+            max-width: 1000px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            text-align: justify;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 8px;
+            margin: 1em 0;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .image-container {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Transcontinental Railroad</h1>
+    <p>By Noah Chapman</p>
+</header>
+
+<section>
+    <div class="content">
+        <h2>Introduction</h2>
+        <p>The Transcontinental Railroad was one of the most significant engineering feats of the 19th century. It connected the eastern U.S. rail network with the West Coast, revolutionizing transportation and commerce across the nation. Spanning over 1,900 miles, it opened up the American frontier and played a pivotal role in shaping the nation's development.</p>
+    </div>
+</section>
+
+<section>
+    <div class="content">
+        <h2>The Route</h2>
+        <p>The Transcontinental Railroad began at Omaha, Nebraska, and ended at Sacramento, California. The route passed through challenging landscapes, including the Rocky Mountains and vast plains, making its construction a monumental task. The railroad was built through the Central Pacific Railroad and Union Pacific Railroad companies, which started from opposite ends and met in Promontory Summit, Utah, on May 10, 1869.</p>
+        <div class="image-container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Transcontinental_Railroad_1869.jpg/600px-Transcontinental_Railroad_1869.jpg" alt="Transcontinental Railroad Route">
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="content">
+        <h2>How It Was Built</h2>
+        <p>The construction of the Transcontinental Railroad required tremendous labor and resources. Thousands of workers, including Chinese immigrants, were employed to lay tracks through difficult terrain. The workers used dynamite to carve through mountains and faced extreme weather conditions and geographical challenges. The Central Pacific Railroad laid tracks westward, while the Union Pacific Railroad worked eastward. The two companies met in the middle, symbolizing the union of the nation’s East and West.</p>
+        <div class="image-container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Promontory_Summit_1869.jpg/800px-Promontory_Summit_1869.jpg" alt="Promontory Summit 1869">
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="content">
+        <h2>Significance</h2>
+        <p>The completion of the Transcontinental Railroad had a profound impact on the United States. It connected the previously isolated regions, facilitating the movement of people and goods across the country. The railroad played a major role in the industrialization of the U.S. and contributed to the settlement of the western frontier. It also had significant effects on Native American tribes, whose lands were often disrupted by the railroad’s construction.</p>
+        <div class="image-container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Transcontinental_Railroad_Celebration_1869.jpg/1024px-Transcontinental_Railroad_Celebration_1869.jpg" alt="Transcontinental Railroad Celebration 1869">
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>Created by Noah Chapman | 2025</p>
+</footer>
+
+</body>
+</html>
